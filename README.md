@@ -1,6 +1,6 @@
 # CAERUS Token Contract
 ## Overview
-This repository contains the implementation and tests for the CAERUS Token, an ERC20 token built using Solidity and Hardhat. The CAERUS Token is a standard ERC20 token with an initial supply of 1,000,000,000 tokens, minted during the contract's deployment.
+This repository contains the implementation and tests for the **CAERUS Token**, an ERC20 token built using Solidity and Hardhat. The **CAERUS Token** is a standard ERC20 token with an initial supply of 1,000,000,000 tokens, minted during the contract's deployment.
 
 ## Prerequisites
 - **Node.js** v12+ LTS and npm (comes with Node)
@@ -21,8 +21,8 @@ npm install
 ```
 
 ## Set Up Configuration:
-1. Review the .example.env file.
-2. Create a .env file based on the example and adjust the values as needed.
+1. Review the `.example.env` file.
+2. Create a `.env` file based on the example and adjust the values as needed.
 
 For Linux or macOS:
 ```
