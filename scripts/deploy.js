@@ -21,3 +21,5 @@ main()
     console.error(error);
     process.exit(1);
   });
+// Deploying contracts with the account: 0xa40aa030A3ba4f42FDCd2B7bC33d5B03770290ea
+// CAERUS contract deployed to: 0x712fF5DD7D30898b8DF9366C6b2793F3AF96636D
